@@ -1,0 +1,25 @@
+{
+  "solde": 5000,
+  "depenses": [
+    { "date": "2024-02-01", "description": "Achat supermarché", "amount": 50 },
+    { "date": "2024-02-05", "description": "Facture téléphone", "amount": 100 },
+    { "date": "2024-02-10", "description": "Restaurant", "amount": 80 },
+    { "date": "2024-02-15", "description": "Courses chez le boulanger", "amount": 20 },
+    { "date": "2024-02-20", "description": "Essence pour la voiture", "amount": 30 },
+    { "date": "2024-02-25", "description": "Café avec des amis", "amount": 40 },
+    { "date": "2024-02-28", "description": "Place de cinéma", "amount": 50 },
+    { "date": "2024-03-03", "description": "Achat de livres", "amount": 60 },
+    { "date": "2024-03-08", "description": "Abonnement mensuel au gym", "amount": 70 },
+    { "date": "2024-03-12", "description": "Repas au fast-food", "amount": 80 },
+    { "date": "2024-03-15", "description": "Frais de parking", "amount": 90 },
+    { "date": "2024-03-20", "description": "Achat de vêtements", "amount": 100 },
+    { "date": "2024-03-25", "description": "Frais de taxi", "amount": 110 }
+  ],
+  "entrees_dargent": [
+    { "date": "2024-02-02", "description": "Remboursement d'un prêt", "amount": 500 },
+    { "date": "2024-02-07", "description": "Bonus de performance au travail", "amount": 1000 },
+    { "date": "2024-02-12", "description": "Remboursement d'une facture impayée", "amount": 200 },
+    { "date": "2024-02-17", "description": "Vente d'articles d'occasion en ligne", "amount": 300 },
+    { "date": "2024-02-22", "description": "Remboursement de dépenses de voyage", "amount": 400 }
+  ]
+}
